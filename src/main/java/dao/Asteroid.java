@@ -1,4 +1,4 @@
-package dao;
+package dao;// напиши мне
 
 import org.sikuli.script.Region;
 
